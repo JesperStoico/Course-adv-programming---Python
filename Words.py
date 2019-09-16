@@ -1,3 +1,8 @@
+'''
+Just a small assignment to create sentences with the list displayed. 
+Just my way of doing it without alot of loops, and a little lambda as well
+'''
+
 import random
 
 adj = [
